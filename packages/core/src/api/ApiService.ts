@@ -13,7 +13,7 @@ interface Headers {
 }
 
 /**
- * A Builder API for making requests to Gate backend service
+ * A builder API for making requests to Gate backend service
  */
 export interface IRequestBuilder {
   /**
